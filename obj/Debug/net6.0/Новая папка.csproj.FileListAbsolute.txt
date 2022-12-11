@@ -1,0 +1,60 @@
+C:\Users\Oleksandr\Desktop\Новая папка\bin\Debug\net6.0\Новая папка.exe
+C:\Users\Oleksandr\Desktop\Новая папка\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\Oleksandr\Desktop\Новая папка\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\Новая папка\bin\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Новая папка\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\Новая папка\obj\Debug\net6.0\ref\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Exam1\bin\Debug\net6.0\Новая папка.exe
+C:\Users\Oleksandr\Desktop\Exam1\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\Oleksandr\Desktop\Exam1\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\Exam1\bin\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Exam1\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\Exam1\obj\Debug\net6.0\ref\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.exe
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\ref\Новая папка.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.exe
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.deps.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.runtimeconfig.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\bin\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.AssemblyInfo.cs
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\refint\Новая папка.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\Новая папка.genruntimeconfig.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam1\obj\Debug\net6.0\ref\Новая папка.dll
